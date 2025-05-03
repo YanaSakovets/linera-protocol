@@ -1,4 +1,4 @@
-<!-- cargo-rdme start -->
+Hello , everyone <!-- cargo-rdme start -->
 
 This module provides a convenient library for writing a Linera client application.
 
